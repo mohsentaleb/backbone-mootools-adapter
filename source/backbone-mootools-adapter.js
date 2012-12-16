@@ -9,7 +9,7 @@ authors: [Mohsen Taleb]
 requires:
  - Core/*
 
-Inspired by: git://github.com/julesjanssen/chosen.git
+Inspired by: http://github.com/inkling/backbone-mootools
 
 license: MIT-style license
 
